@@ -1,5 +1,6 @@
 # Chat-server-client
 build the server and client side of a chat server using python
+
 For the server side, write a program which you run it first (before any client) and it remains
 active until the end of the session.
 The client side is a program that we can run it multiple times (in separate command
